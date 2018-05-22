@@ -90,12 +90,6 @@ __Market Risk Analyst. Banco Mercantil. Venezuela.__
 __Junior Research Analyst. Venezuelan Banking Association__
 
 
-### Patents
-
-
-
-
-
 <!-- ### Footer
 
 Last updated: May 2013 -->
