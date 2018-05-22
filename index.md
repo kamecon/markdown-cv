@@ -58,7 +58,7 @@ R - dplyr, ggplot2, Markdown, shiny, caret. Python - jupyter, scikit-learn, nump
 __Adjunct Professor. Colegio Universitario Cardenal Cisneros__
 
 `2017`
-__Adjunct Professor. Centro Universitario Villanueva_
+__Adjunct Professor. Centro Universitario Villanueva__
 
 `2013`
 __Adjunct Professor. IE University__
@@ -89,8 +89,6 @@ __Market Risk Analyst. Banco Mercantil. Venezuela.__
 `1995-1997`
 __Junior Research Analyst. Venezuelan Banking Association__
 
-
-### Patents
 
 
 
