@@ -90,6 +90,40 @@ __Market Risk Analyst. Banco Mercantil. Venezuela.__
 __Junior Research Analyst. Venezuelan Banking Association__
 
 
+## Publications
+
+### Books
+
+__Macroeconomía, Curso básico teórico-práctico.__ Delta Publicaciones. Madrid, Spain. 2010. Co-Authors: Carmen Peligros, Ana Felis, David Moya, Sonia Quiroga and Alfonso Torres
+
+### Book Chapters
+
+__La Tecnología.__ In Jorge Malfeito (editor) *Introducción a la Economía Mundial*. Delta Publicaciones. Madrid, Spain. 2012
+
+__Evolución de los Modelos para el Estudio de las Crisis.__ In Sergio Berumen (editor) *Crisis Monetarias y Financieras: lecciones para el futuro*. ESIC editorial. Madrid, Spain. 2014
+
+__Choques externos, ajuste y opciones de política cambiaria.__ In Ronald Balza Guanipa and Humberto García Larralde (editors) *FRAGMENTOS DE VENEZUELA. 20 Escritos sobre Economía*. Publicaciones UCAB. Caracas, Venezuela. 2017. Co-Author: Concepción Díaz García.
+
+### Manuscripts
+
+__Self-Fullfilling Debt Crisis in an Oil Exporting Economy.__ USAEE-IAEE Working Paper No. 10-056.
+
+__Métodos Para el Análisis y Simulación del Equilibrio General en Economía: Con Aplicaciones en MATLAB__ (Unpublished Manuscript) joint with Francisco Saez. 297 pages.
+
+### Non-academic Publications
+
+__Hipotética Salida del Control de Cambios.__ Revista SIC. Número 776, pp. 247-249. Año LXXVIII. Venezuela. July 2015
+
+### Work in Progress
+
+__Durable Goods, Incomplete Markets and Adjustment Cost__
+
+__Alta Inflación y Balances Fiscales: posibles relaciones__ (book chapter) join with Alejandro C. García Cintado
+
+__Determinantes de la Evaluación del Profesorado: Características personales vs naturaleza de la asignatura__ join with Concepción Díaz García, Manuel León Navarro y Francisco Sánchez Velvé
+
+__Local Banks and Self-Fullfilling Debt Crises__
+
 
 
 
