@@ -6,7 +6,7 @@ title: Kamal Ronero's CV
 Quantitative Macroeconomics and data analyst working in DSGE models with incomplete markets and machine learning techniques applied to finance and economics. Background in economics and data science.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="karomero@ucm.es">karomero@ucm.es</a>
 | <a href="https://www.linkedin.com/in/kamal-romero-155a3862/">LinkeIn</a> 
 | <a href="https://github.com/kamecon">Github</a> 
 </div>
@@ -71,6 +71,21 @@ __Assistant Professor. Universidad Europea de Madrid__
 
 `1998-1999`
 __Adjunct Professor. Universidad Central de Venezuela__
+
+## Courses Taught
+
+* Principles of Macroeconomics (English and Spanish).
+
+* Intermediate Macroeconomics (Spanish).
+
+* Principles of Microeconomics (English and Spanish).
+
+* Intermediate Microeconomics (Spanish).
+
+* Mathematics for Business (English)
+
+* Open Economy Macroeconomics (Spanish).
+
 
 ## Professional Experience
 
