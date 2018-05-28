@@ -7,7 +7,7 @@ Quantitative Macroeconomics and data analyst working in DSGE models with incompl
 
 <div id="webaddress">
 <a href="karomero@ucm.es">karomero@ucm.es</a>
-| <a href="https://www.linkedin.com/in/kamal-romero-155a3862/">LinkeIn</a> 
+| <a href="https://www.linkedin.com/in/kamal-romero-155a3862/">LinkedIn</a> 
 | <a href="https://github.com/kamecon">Github</a> 
 </div>
 
@@ -50,7 +50,7 @@ __Universidad Central de Venezuela__
 
 ## Computing
 
-R - dplyr, ggplot2, Markdown, shiny, caret. Python - jupyter, scikit-learn, numpy, matplotlib, pandas. Matlab. Julia, Fortran and SQL knowledge. Statistical package Eviews, would quickly catch up with any statistical packages such as Stata, SAS and SPSS.
+Matlab. R - dplyr, ggplot2, Markdown, shiny, caret. Python - jupyter, scikit-learn, numpy, matplotlib, pandas. Julia, Fortran and SQL knowledge. Statistical package Eviews, would quickly catch up with any statistical packages such as Stata, SAS and SPSS.
 
 ## Teaching Experience
 
@@ -74,17 +74,17 @@ __Adjunct Professor. Universidad Central de Venezuela__
 
 ## Courses Taught
 
-* Principles of Macroeconomics (English and Spanish).
+Principles of Macroeconomics (English and Spanish).
 
-* Intermediate Macroeconomics (Spanish).
+Intermediate Macroeconomics (Spanish).
 
-* Principles of Microeconomics (English and Spanish).
+Principles of Microeconomics (English and Spanish).
 
-* Intermediate Microeconomics (Spanish).
+Intermediate Microeconomics (Spanish).
 
-* Mathematics for Business (English)
+Mathematics for Business (English).
 
-* Open Economy Macroeconomics (Spanish).
+Open Economy Macroeconomics (Spanish).
 
 
 ## Professional Experience
