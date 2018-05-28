@@ -141,7 +141,7 @@ __Local Banks and Self-Fullfilling Debt Crises__
 
 ## Conference Presentations
 
-XVIII Encuentro de Economía Pública. XII Encuentro de Economía Aplicada. XXXI Simposio de An\'{a}lisis Econ\'{o}mico. IX Encuentro de Economía Aplicada. XI Encontro de Novos Investigadores en Análise Económica. VII Congreso Nacional de Economía. IX Jornadas de Economía Internacional. XXIX Simposio de Análisis Económico. X Encontro de Novos Investigadores en Análise Económica.
+XVIII Encuentro de Economía Pública. XII Encuentro de Economía Aplicada. XXXI Simposio de Análisis Económico. IX Encuentro de Economía Aplicada. XI Encontro de Novos Investigadores en Análise Económica. VII Congreso Nacional de Economía. IX Jornadas de Economía Internacional. XXIX Simposio de Análisis Económico. X Encontro de Novos Investigadores en Análise Económica.
 
 ## Seminar Presentations
 
