@@ -139,6 +139,27 @@ __Determinantes de la Evaluación del Profesorado: Características personales v
 
 __Local Banks and Self-Fullfilling Debt Crises__
 
+## Conference Presentations
+
+XVIII Encuentro de Economía Pública. XII Encuentro de Economía Aplicada. XXXI Simposio de An\'{a}lisis Econ\'{o}mico. IX Encuentro de Economía Aplicada. XI Encontro de Novos Investigadores en Análise Económica. VII Congreso Nacional de Economía. IX Jornadas de Economía Internacional. XXIX Simposio de Análisis Económico. X Encontro de Novos Investigadores en Análise Económica.
+
+## Seminar Presentations
+
+Universidad Jaume I. Universidad de Granada. Universidad Europea de Madrid. Universidad de Vigo. Universidad Complutense de Madrid. Research Department, Finance Ministry of Venezuela. Instituto de Estudios Superiores de Administración (IESA).
+
+## Financed Research Projects
+
+`2011/13`
+
+__Vintages of Human, Physical and Natural Capital__ ECO2010-17943, DGICYT. Project leader: Omar Licandro
+
+`2007/10`
+
+__Innovation and Vintages of Human, Physical and Natural Capital__ SEJ2007-65552/ECON, DGICYT. Project leader: Luis A. Puch
+
+`2006/07`
+
+__Corporate Reputation: Measures and its relation with the firm value__ Internal project Universidad Europea de Madrid OTRI 2007/UEM19. Project leader: Eva Ropero Moriones
 
 
 
