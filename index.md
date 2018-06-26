@@ -15,7 +15,7 @@ Quantitative Macroeconomics and data analyst working in DSGE models with incompl
 ## Experienced in
 
 Implementation of quantitative techniques for forecasting and analyzing macroeconomics and financial events.
-Wirting research reports for a wide range of users: corporate clients, internal use, investment funds, risk management departments and government agencies.
+Writing research reports for a wide range of users: corporate clients, internal use, investment funds, risk management departments and government agencies.
 Academic experience in the implementation of dynamic stochastic general equilibrium macroeconomic models with incomplete markets.
 More than 10 years of university teaching experience.
 
