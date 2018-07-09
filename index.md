@@ -55,22 +55,22 @@ Matlab. R - dplyr, ggplot2, Markdown, shiny, caret. Python - jupyter, scikit-lea
 ## Teaching Experience
 
 `2012-current`
-__Adjunct Professor. Colegio Universitario Cardenal Cisneros__
+__Adjunct Professor__. Colegio Universitario Cardenal Cisneros
 
 `2017`
-__Adjunct Professor. Centro Universitario Villanueva__
+__Adjunct Professor__. Centro Universitario Villanueva
 
 `2013`
-__Adjunct Professor. IE University__
+__Adjunct Professor__. IE University
 
 `2008-2012`
-__Visiting Professor. Universidad Rey Juan Carlos__
+__Visiting Professor__. Universidad Rey Juan Carlos
 
 `2005-2008`
-__Assistant Professor. Universidad Europea de Madrid__
+__Assistant Professor__. Universidad Europea de Madrid
 
 `1998-1999`
-__Adjunct Professor. Universidad Central de Venezuela__
+__Adjunct Professor__. Universidad Central de Venezuela
 
 ## Courses Taught
 
@@ -90,19 +90,19 @@ Open Economy Macroeconomics (Spanish).
 ## Professional Experience
 
 `2006`
-__Invited Researcher, Central Bank of Venezuela__
+__Invited Researcher__, Central Bank of Venezuela
 
 `2004`
-__Advisor. Finance Ministry of Venezuela__
+__Advisor__. Finance Ministry of Venezuela
 
 `1997-1999`
-__Fixed income and global economics analyst. Santander Investment, Venezuela__
+__Fixed income and global economics analyst__. Santander Investment, Venezuela
 
 `1997`
-__Market Risk Analyst. Banco Mercantil. Venezuela.__
+__Market Risk Analyst__. Banco Mercantil. Venezuela
 
 `1995-1997`
-__Junior Research Analyst. Venezuelan Banking Association__
+__Junior Research Analyst__. Venezuelan Banking Association
 
 
 ## Publications
