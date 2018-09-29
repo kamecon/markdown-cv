@@ -57,8 +57,14 @@ Matlab. R - dplyr, ggplot2, Markdown, shiny, caret. Python - jupyter, scikit-lea
 `2012-current`
 __Adjunct Professor__. Colegio Universitario Cardenal Cisneros
 
+`2018-current`
+__Adjunct Professor__. Universidad Camilo Jose Cela
+
+`2018-current`
+__Adjunct Professor__. Universidad San Pablo CEU
+
 `2017`
-__Adjunct Professor__. Centro Universitario Villanueva
+__Adjunct Professor__. Syntagma - Centro Universitario Villanueva
 
 `2013`
 __Adjunct Professor__. IE University
