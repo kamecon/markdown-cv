@@ -125,6 +125,8 @@ __Evolución de los Modelos para el Estudio de las Crisis.__ In Sergio Berumen (
 
 __Choques externos, ajuste y opciones de política cambiaria.__ In Ronald Balza Guanipa and Humberto García Larralde (editors) *FRAGMENTOS DE VENEZUELA. 20 Escritos sobre Economía*. Publicaciones UCAB. Caracas, Venezuela. 2017. Co-Author: Concepción Díaz García.
 
+__Alta Inflación y Balances Fiscales: posibles relaciones__ In Jose Guerra and Leonardo Vera (editors) *Inflación Alta e Hiperinflación: Miradas, Lecciones y Desafíos para Venezuela*. Konrad-Adenauer-Stiftung e.V. (forthcoming) Co-Author: Alejandro C. García Cintado
+
 ### Manuscripts
 
 __Self-Fullfilling Debt Crisis in an Oil Exporting Economy.__ USAEE-IAEE Working Paper No. 10-056.
@@ -139,9 +141,7 @@ __Hipotética Salida del Control de Cambios.__ Revista SIC. Número 776, pp. 247
 
 __Durable Goods, Incomplete Markets and Adjustment Cost__
 
-__Alta Inflación y Balances Fiscales: posibles relaciones__ (book chapter) join with Alejandro C. García Cintado
-
-__Determinantes de la Evaluación del Profesorado: Características personales vs naturaleza de la asignatura__ join with Concepción Díaz García, Manuel León Navarro y Francisco Sánchez Velvé
+__Evaluación  de  profesores:  La  importancia  del  desempeño  de  los  estudiantes.  Evidencia  en  una  Universidad  de  tamaño  medio__ join with Concepción Díaz García, Manuel León Navarro y Francisco Sánchez Velvé
 
 __Local Banks and Self-Fullfilling Debt Crises__
 
