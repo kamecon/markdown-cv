@@ -21,15 +21,20 @@ More than 10 years of university teaching experience.
 
 ### Research interests
 
-Macroeconomics: incomplete markets, financial constraints, open economy macroeconomics. Data Science: ensemble techniques applied to fixed income markets.
+Macroeconomics: incomplete markets, financial constraints, open economy macroeconomics. Data Science: risk management, financial and economic forecasting.
 
 
 ## Education
 
-`2019`
+`2020`
 __Universidad Complutense de Madrid__  
 
 - Ph.D. candidate in Economics
+
+`2019`
+__International Institute of Professional Education and Research IIPER__
+
+-Certified in Quantitative Risk Management (CQRM)
 
 `2017`
 __K School__ 
@@ -63,8 +68,8 @@ __Adjunct Professor__. Universidad Camilo Jose Cela
 `2018-current`
 __Adjunct Professor__. Universidad San Pablo CEU
 
-`2017`
-__Adjunct Professor__. Syntagma - Centro Universitario Villanueva
+`2018-current`
+__Adjunct Professor__. Instituto de Estudios Bursátiles (MBA)
 
 `2013`
 __Adjunct Professor__. IE University
@@ -88,12 +93,17 @@ Principles of Microeconomics (English and Spanish).
 
 Intermediate Microeconomics (Spanish).
 
-Mathematics for Business (English).
+Mathematics for Business (English and Spanish).
+
+Statistics for Business (English and Spanish).
 
 Open Economy Macroeconomics (Spanish).
 
 
 ## Professional Experience
+
+`2018-current`
+__Independent consultant and trainer__
 
 `2006`
 __Invited Researcher__, Central Bank of Venezuela
@@ -125,7 +135,7 @@ __Evolución de los Modelos para el Estudio de las Crisis.__ In Sergio Berumen (
 
 __Choques externos, ajuste y opciones de política cambiaria.__ In Ronald Balza Guanipa and Humberto García Larralde (editors) *FRAGMENTOS DE VENEZUELA. 20 Escritos sobre Economía*. Publicaciones UCAB. Caracas, Venezuela. 2017. Co-Author: Concepción Díaz García.
 
-__Alta Inflación y Balances Fiscales: posibles relaciones__ In Jose Guerra and Leonardo Vera (editors) *Inflación Alta e Hiperinflación: Miradas, Lecciones y Desafíos para Venezuela*. Konrad-Adenauer-Stiftung e.V. (forthcoming) Co-Author: Alejandro C. García Cintado
+__Alta Inflación y Balances Fiscales: posibles relaciones__ In Jose Guerra and Leonardo Vera (editors) *Inflación Alta e Hiperinflación: Miradas, Lecciones y Desafíos para Venezuela*. Publicaciones UCAB. Caracas, Venezuela. 2019. Co-Author: Alejandro C. García Cintado
 
 ### Manuscripts
 
@@ -141,7 +151,7 @@ __Hipotética Salida del Control de Cambios.__ Revista SIC. Número 776, pp. 247
 
 __Durable Goods, Incomplete Markets and Adjustment Cost__
 
-__Evaluación  de  profesores:  La  importancia  del  desempeño  de  los  estudiantes.  Evidencia  en  una  Universidad  de  tamaño  medio__ join with Concepción Díaz García, Manuel León Navarro y Francisco Sánchez Velvé
+__Determinantes de las Evaluaciones del Profesorado Universitario__ join with Concepción Díaz García, Manuel León Navarro y Francisco Sánchez Velvé (submitted)
 
 __Local Banks and Self-Fullfilling Debt Crises__
 
