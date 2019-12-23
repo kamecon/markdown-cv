@@ -34,7 +34,7 @@ __Universidad Complutense de Madrid__
 `2019`
 __International Institute of Professional Education and Research IIPER__
 
--Certified in Quantitative Risk Management (CQRM)
+- Certified in Quantitative Risk Management (CQRM)
 
 `2017`
 __K School__ 
@@ -55,7 +55,7 @@ __Universidad Central de Venezuela__
 
 ## Computing
 
-Matlab. R - dplyr, ggplot2, Markdown, shiny, caret. Python - jupyter, scikit-learn, numpy, matplotlib, pandas. Julia, Fortran and SQL knowledge. Statistical package Eviews, would quickly catch up with any statistical packages such as Stata, SAS and SPSS.
+Matlab. R - dplyr, ggplot2, Markdown, shiny, rvest. Python - jupyter, scikit-learn, numpy, matplotlib, pandas. Julia, Fortran and SQL knowledge. Statistical package Eviews, would quickly catch up with any statistical packages such as Stata, SAS and SPSS.
 
 ## Teaching Experience
 
