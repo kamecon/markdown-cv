@@ -95,7 +95,7 @@ Intermediate Microeconomics (Spanish).
 
 Mathematics for Business (English and Spanish).
 
-Statistics for Business (English and Spanish).
+Statistics for Business (Spanish).
 
 Open Economy Macroeconomics (Spanish).
 
