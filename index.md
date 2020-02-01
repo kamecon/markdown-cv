@@ -55,7 +55,7 @@ __Universidad Central de Venezuela__
 
 ## Computing
 
-Matlab. R - dplyr, ggplot2, Markdown, shiny, rvest. Python - jupyter, scikit-learn, numpy, matplotlib, pandas. Julia, Fortran and SQL knowledge. Statistical package Eviews, would quickly catch up with any statistical packages such as Stata, SAS and SPSS.
+Matlab. R - dplyr, ggplot2, Markdown, shiny, rvest. Python - jupyter, scikit-learn, numpy, matplotlib, pandas. Julia, Fortran, SAS and SQL knowledge. Statistical package Eviews, would quickly catch up with any statistical packages such as Stata and SPSS.
 
 ## Teaching Experience
 
