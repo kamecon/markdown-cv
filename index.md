@@ -17,7 +17,7 @@ Quantitative Macroeconomics and data analyst working in DSGE models with incompl
 Implementation of quantitative techniques for forecasting and analyzing macroeconomics and financial events.
 Writing research reports for a wide range of users: corporate clients, internal use, investment funds, risk management departments and government agencies.
 Academic experience in the implementation of dynamic stochastic general equilibrium macroeconomic models with incomplete markets.
-More than 10 years of university teaching experience.
+15 years of university teaching experience.
 
 ### Research interests
 
@@ -142,6 +142,11 @@ __Alta Inflación y Balances Fiscales: posibles relaciones__ In Jose Guerra and 
 __Self-Fullfilling Debt Crisis in an Oil Exporting Economy.__ USAEE-IAEE Working Paper No. 10-056.
 
 __Métodos Para el Análisis y Simulación del Equilibrio General en Economía: Con Aplicaciones en MATLAB__ (Unpublished Manuscript) joint with Francisco Saez. 297 pages.
+
+### Non-refereed Publications
+
+__¿Qué podemos hacer para entender y minimizar los efectos económicos del COVID-19?: Una visión de equilibrio general
+dinámico estocástico__  Noticias de Política Económica, número extraordinario, pp. 76-79. April 2020. Co-Author: Alejandro C. García Cintado
 
 ### Non-academic Publications
 
