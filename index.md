@@ -59,17 +59,17 @@ Matlab. R - dplyr, ggplot2, Markdown, shiny, rvest. Python - jupyter, scikit-lea
 
 ## Teaching Experience
 
+`2018-current`
+__Adjunct Professor__. Universidad San Pablo CEU
+
 `2012-current`
 __Adjunct Professor__. Colegio Universitario Cardenal Cisneros
 
 `2018-current`
-__Adjunct Professor__. Universidad Camilo Jose Cela
-
-`2018-current`
-__Adjunct Professor__. Universidad San Pablo CEU
-
-`2018-current`
 __Adjunct Professor__. Instituto de Estudios Bursátiles (MBA)
+
+`2018-2020`
+__Adjunct Professor__. Universidad Camilo Jose Cela
 
 `2013`
 __Adjunct Professor__. IE University
@@ -92,6 +92,8 @@ Intermediate Macroeconomics (Spanish).
 Principles of Microeconomics (English and Spanish).
 
 Intermediate Microeconomics (Spanish).
+
+Game Theory (Spanish).
 
 Mathematics for Business (English and Spanish).
 
