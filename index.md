@@ -60,7 +60,7 @@ Matlab. R - dplyr, ggplot2, Markdown, shiny, rvest. Python - jupyter, scikit-lea
 ## Teaching Experience
 
 `2018-current`
-__Adjunct Professor__. Universidad San Pablo CEU
+__Assistant Professor__. Universidad San Pablo CEU
 
 `2012-current`
 __Adjunct Professor__. Colegio Universitario Cardenal Cisneros
