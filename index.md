@@ -139,7 +139,7 @@ __Choques externos, ajuste y opciones de política cambiaria.__ In Ronald Balza 
 
 __Alta Inflación y Balances Fiscales: posibles relaciones__ In Jose Guerra and Leonardo Vera (editors) *Inflación Alta e Hiperinflación: Miradas, Lecciones y Desafíos para Venezuela*. Publicaciones UCAB. Caracas, Venezuela. 2019. Co-Author: Alejandro C. García Cintado
 
-__Determinantes de las Evaluaciones del Profesorado Universitario__ In Santiago Sevilla Vallejo (editor) *Teaching and learning in the 21st century: towards a convergence between technology and pedagogy*. Adaya Press. Join with Concepción Díaz García, Manuel León Navarro and Francisco Sánchez Velvé (forthcoming 2021)
+__Determinantes de las Evaluaciones del Profesorado Universitario__ In Santiago Sevilla Vallejo (editor) *Teaching and learning in the 21st century: towards a convergence between technology and pedagogy*. Adaya Press. Madrid, Spain. 2021. Join with Concepción Díaz García, Manuel León Navarro and Francisco Sánchez Velvé
 
 ### Manuscripts
 
